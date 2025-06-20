@@ -45,20 +45,33 @@ Key Features Overview:
 
 Versatile File Management:
 You can select a folder, and the program will automatically identify DocX and TXT files within it.
+
 Alternatively, you can manually add single or multiple files.
+
 For even greater convenience, you can directly drag and drop files or folders into the program, and they will be loaded automatically!
 Loaded files appear in a list on the left. You can check/uncheck files to select which ones to process, for example, to search only specific documents.
+
 Flexible Search & Replace:
 You can set up one or more "search A and replace with B" rules.
+
 Once rules are set, you can choose to perform a batch replacement on all checked files.
+
 Plain Text Batch Replace: If you don't mind losing Word document formatting, this mode converts Word files to plain text for processing. It's fast but discards all original layout.
+
 Formatted Batch Replace: For Word documents, the program attempts to perform replacements while preserving existing formatting like fonts, colors, and images, striving to maintain the document's visual integrity.
+
 Convenient Editing and Preview:
 Click on any file in the left list, and its content will be displayed in the central editing area.
+
 You can directly modify the plain text content in this area.
+
 The program provides a real-time character count to help you monitor document length.
+
 "Undo (Ctrl+Z)" and "Redo (Ctrl+Y)" functions are available for easy correction of edits.
+
 You can save the current file, or save all modified files at once.
+
 There's also an "Undo Batch" feature to revert to the state before the last batch operation.
+
 Real-time Message Prompts:
 The message area in the bottom-right corner displays real-time operational logs, warnings, and errors, keeping you informed about the program's status and processing results.
