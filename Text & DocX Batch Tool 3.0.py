@@ -17,6 +17,7 @@ import time
 import copy
 import traceback
 import sys
+sys.setrecursionlimit(3000)
 
 from app_languages import LANGUAGES
 
